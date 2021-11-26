@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\molotgor\source\repos\KB4Atbash\KB4Atbash\Source.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\molotgor\source\repos\KB4Atbash\KB4Atbash\Source.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
+  KB4Atbash.vcxproj -> C:\Users\molotgor\source\repos\KB4Atbash\Debug\KB4Atbash.exe
